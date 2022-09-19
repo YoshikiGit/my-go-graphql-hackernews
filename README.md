@@ -28,6 +28,7 @@ mutation {
 ### chrome の拡張機能 ModeHeader でトークンを Header に設定
 
 key：Authorization
+
 value：login で得た jwt
 
 ### createLink を実行する
